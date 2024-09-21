@@ -9,7 +9,7 @@ import input
 
 #se codifica con una matriz, número no puesto -> 0
 
-fichero = "enunciado"
+fichero = "enunciado.txt"
 matriz = []
 input.leer(fichero, matriz)
 
